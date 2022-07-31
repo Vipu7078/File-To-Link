@@ -17,7 +17,7 @@
   
 ## About This Bot
 
-<b><a href="https://www.github.com/Aadhi000" title="Dollow">Follow Me For Updates</a></b>
+<b><a href="https://www.github.com/vipul7078" title="Dollow">Follow Me For Updates</a></b>
 
 <p align="center">
     <a href="https://github.com/vipul7078/File-To-Link">
